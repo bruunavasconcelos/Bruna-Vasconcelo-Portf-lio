@@ -1,2 +1,2 @@
-# Bruna-Vasconcelo-Portf-lio
+# Bruna-Vasconcelo-Portfolio
 Currículo criado no Visual Studio Code, utilizando HTML, CSS e JavaScript.
